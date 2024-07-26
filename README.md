@@ -20,11 +20,13 @@
 
 <h2> Certifications</h2>
 
-- [ISC2 CC](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [ISC2 CC](https://github.com/user-attachments/files/16392154/1720453749362.pdf)
 
-- [ICT Authority Kenya - Cybersecurity and Emerging Technologies Training](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  
-- [IBM- Cybersecurity Fundamentals](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
+- [ICT Authority Kenya - Cybersecurity and Emerging Technologies Training](https://github.com/user-attachments/files/16392130/nyamburanjoroge22gmail-com-1608-1618-20240527-881800f8ce.pdf)
+
+    
+- [IBM- Cybersecurity Fundamentals](https://www.credly.com/badges/c4d2b213-e06c-40f1-b7a9-eb4a026cf153/linked_in_profile)
 
 
 <h2> 🤳 Connect with me:</h2>
