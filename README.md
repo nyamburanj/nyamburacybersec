@@ -7,7 +7,7 @@
 - <b>Active Directory Home Lab Project</b>
   - [Active Directory Project](https://github.com/nyamburanj/activedirectoryhomelab)
 - <b>Automation Project</b>
-  - [Automation Project](https://github.com/nyamburanj/activedirectoryhomelab)
+  - [Automation Project](https://github.com/nyamburanj/Automation-Project)
 
 
 <h2> Certifications</h2>
