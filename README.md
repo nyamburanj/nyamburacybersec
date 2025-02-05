@@ -12,6 +12,9 @@
 
 <h2> Certifications</h2>
 
+- [CompTIA Security +](https://www.credly.com/badges/fbb9b8d5-c141-4366-a46f-2d5831be6a00/linked_in_profile)
+
+
 - [ISC2 CC](https://github.com/user-attachments/files/16392154/1720453749362.pdf)
 
 
